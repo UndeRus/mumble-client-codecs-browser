@@ -56,4 +56,4 @@ const MUMBLE_SAMPLE_RATE = 48000
   })
 //}
 
-export default self
+export default null
